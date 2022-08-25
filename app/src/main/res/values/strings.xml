@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">مقاليد السموات والأرض</string>
+    <string name="action_1">أذكار الصباح</string>
+    <string name="action_2">أذكار المساء</string>
+    <string name="action_3">آيات الحرز</string>
+    <string name="action_4">منزل</string>
+    <string name="action_5">آيات السكينة</string>
+    <string name="action_6">آيات الوقاية والحفظ</string>
+    <string name="action_7">آيات الشفاء</string>
+    <string name="action_8">دعاء أنس بن مالك</string>
+    <string name="action_9">أدعية بعد كل صلاة مكتوبة</string>
+    <string name="action_10">تمهيد أدعية الإستعاذة</string>
+    <string name="action_11">يوم الجمعة</string>
+    <string name="action_12">يوم السبت</string>
+    <string name="action_13">يوم الأحد</string>
+    <string name="action_14">يوم الأثنين</string>
+    <string name="action_15">يوم الثلاثاء</string>
+    <string name="action_16">يوم الأربعاء</string>
+    <string name="action_17">يوم الخميس</string>
+</resources>

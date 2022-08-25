@@ -1,0 +1,90 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hala.maqaleed.MainActivity">
+        <item
+            android:id="@+id/azkar_sabah"
+            android:orderInCategory="100"
+            android:title="@string/action_1"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/azkar_masa"
+            android:orderInCategory="100"
+            android:title="@string/action_2"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/ayat_herz"
+            android:orderInCategory="100"
+            android:title="@string/action_3"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/manzel"
+            android:orderInCategory="100"
+            android:title="@string/action_4"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/ayat_sakina"
+            android:orderInCategory="100"
+            android:title="@string/action_5"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/ayat_weqaya"
+            android:orderInCategory="100"
+            android:title="@string/action_6"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/ayat_shefa"
+            android:orderInCategory="100"
+            android:title="@string/action_7"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/doaa_anas"
+            android:orderInCategory="100"
+            android:title="@string/action_8"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/doaa_salat"
+            android:orderInCategory="100"
+            android:title="@string/action_9"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/ad3yat_isti3aza"
+            android:orderInCategory="100"
+            android:title="@string/action_10"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/friday_doaa"
+            android:orderInCategory="100"
+            android:title="@string/action_11"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/saturday_doaa"
+            android:orderInCategory="100"
+            android:title="@string/action_12"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/sunday_doaa"
+            android:orderInCategory="100"
+            android:title="@string/action_13"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/monday_doaa"
+            android:orderInCategory="100"
+            android:title="@string/action_14"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/tuesday_doaa"
+            android:orderInCategory="100"
+            android:title="@string/action_15"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/wednesday_doaa"
+            android:orderInCategory="100"
+            android:title="@string/action_16"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/thursday_doaa"
+            android:orderInCategory="100"
+            android:title="@string/action_17"
+            app:showAsAction="never" />
+</menu>
